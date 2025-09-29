@@ -40,7 +40,7 @@ Skrip ini memungkinkan pengguna untuk menghitung posisi baru dari sebuah titik s
 3.  **Jalankan Skrip**
     Eksekusi skrip utama dari terminal:
     ```bash
-    python nama_skrip_anda.py
+    python trans.py
     ```
 4.  **Gunakan Menu**
     Setelah dijalankan, menu akan muncul. Masukkan angka `1` hingga `5` untuk memilih opsi yang diinginkan dan tekan Enter.
